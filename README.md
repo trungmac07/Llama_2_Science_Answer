@@ -11,7 +11,7 @@
 
 This project uses the Llama 2 language model, fine-tuned with the LoRA (Low Rank Adaptation) method and quantization. This approach accelerates the fine-tuning process without losing accuracy. After fine-tuning, the model will be able to answer questions related to science subjects like physics, chemistry, and biology. The goal of this model is to help students better understand and find interest in natural sciences.
 
-
+![ScienceQnA](resources/scieneQnA.png)
 
 - Model use dataset of Scientific Question Answers: [SciQ](https://www.kaggle.com/datasets/thedevastator/sciq-a-dataset-for-science-question-answering)
 

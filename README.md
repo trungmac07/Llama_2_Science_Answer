@@ -17,7 +17,6 @@ This project uses the Llama 2 language model, fine-tuned with the LoRA (Low Rank
 
 - Llama 2 Model: [Llama 2 Model](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
 
-- Guide for fine tuning Llama 2 using LoRA: [deci.ai](https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/)
 
 
 **Note:** The Llama 2 model is a large language model with 7 billion parameters, requiring a GPU with significant VRAM (approximately 5GB for running the model and 11GB for training). Therefore, it is recommended to use Google Colab (with T4 GPU) or similar platforms to run the model.
